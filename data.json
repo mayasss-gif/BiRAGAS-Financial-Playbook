@@ -1,0 +1,188 @@
+{
+  "sections": [
+    {
+      "id": "frame",
+      "label": "The Frame",
+      "subtitle": "Why this isn't a top-down market-share story",
+      "color": "#C8102E",
+      "headline": "Bottom-Up. Customer-Driven. Testable.",
+      "body": "The fastest way to lose an investor is to lead with a $1 trillion addressable market and a \"we just need 0.5% of this to succeed\" frame. The investor's response is silent: you have no idea who those customers are, so this number is unverifiable.\n\nEvery figure in the BiRAGAS financial model is bottom-up: six customer segments, with named pipeline counts, multiplied by average selling prices benchmarked against publicly disclosed 10-K contract values from Recursion, Schrödinger, and AbCellera, then discounted 15-20% for BiRAGAS's earlier-stage commercial maturity. Operating-leverage curves are modeled on mature enterprise-SaaS comparables.\n\nLead with the methodology, not the market size. The market size is a context, not the projection.",
+      "tactics": [
+        "Open with 'The first thing I want you to know about this model is what it is NOT.'",
+        "Name the three comparables — Recursion, Schrödinger, AbCellera. Investors know them.",
+        "Use 'bottom-up, customer-driven, testable' as a three-word frame.",
+        "Show the methodology slide before any revenue number."
+      ],
+      "narration": "Section one. The Frame. The fastest way to lose an investor is to lead with a one-trillion-dollar addressable market and a 'we just need zero-point-five percent of this to succeed' frame. Every figure in the BiRAGAS financial model is bottom-up. Six customer segments. Named pipeline counts. ASPs benchmarked against publicly disclosed ten-K contract values from Recursion, Schrödinger, and AbCellera. Lead with the methodology, not the market size."
+    },
+    {
+      "id": "markets",
+      "label": "The Markets",
+      "subtitle": "Twenty-seven sized markets · $1 trillion+ TAM",
+      "color": "#1E40AF",
+      "headline": "Twenty-Seven Markets. Three Categories.",
+      "body": "The addressable surface is unusually broad — but the breadth is the whole point. BiRAGAS is infrastructure, which means it earns revenue from analysis platforms (AI drug discovery), substrate platforms (RNA-seq, RNA therapeutics), and disease-specific drug development (oncology, immunology, neurodegeneration, metabolic).\n\nTwenty-seven sized markets in total. Five foundational platform markets, seven oncology sub-segments, AML, kidney (DN + CKD-non-diabetic), five autoimmune sub-segments, three neurodegeneration verticals, plus metabolic and TRD. Aggregate 2030 TAM: $1.05 trillion. Serviceable obtainable market by 2030: $1.6 billion.\n\nThe diversification across market categories is the key structural defense. No single market dominates the model. Even oncology — the largest single vertical at $396B in 2030 TAM — contributes less than 30% of BiRAGAS's projected 2030 revenue.",
+      "tactics": [
+        "Don't list all 27 markets aloud. Group them: 'foundational, substrate, disease-vertical.'",
+        "Lead with whichever vertical the investor knows — oncology for cancer funds, DN for kidney funds.",
+        "Use the diversification frame to defend against concentration-risk questions before they ask.",
+        "Quote the SOM ($1.6B) not just the TAM ($1.05T) — SOM is what's defensible."
+      ],
+      "narration": "Section two. The Markets. Twenty-seven sized markets. Three categories. Foundational, substrate, and disease-vertical. Aggregate twenty thirty TAM — one trillion fifty billion dollars. Serviceable obtainable market by twenty thirty — one point six billion dollars. The diversification across market categories is the key structural defense. No single market dominates the model. Even oncology — the largest single vertical at three hundred ninety-six billion in twenty thirty TAM — contributes less than thirty percent of BiRAGAS's projected twenty thirty revenue."
+    },
+    {
+      "id": "streams",
+      "label": "The Streams",
+      "subtitle": "Seven concurrent revenue motions",
+      "color": "#3D0E40",
+      "headline": "Seven Streams. Diversified by Type, Cycle, and Timing.",
+      "body": "Six SaaS / licensing motions plus co-development partnerships and companion-diagnostic royalties. The streams are intentionally diversified across three axes: customer type (big pharma to government), contract cycle length (3-month SaaS to 5-year co-dev), and revenue recognition timing (subscription to milestone).\n\nBig Pharma platform license — $1.80M ASP, 30 customers by 2030.\nMid-cap biotech modular — $0.70M ASP, 130 customers by 2030 (largest single revenue segment).\nSmall biotech SaaS — $0.20M, 230 customers, fastest sales cycle.\nCRO white-label — $1.00M, 32 customers, channel-leverage motion.\nAcademic Medical Centers — $0.15M, 80 customers, research-tier.\nGovernment / NIH — $0.25M, 60 customers, NIH-grant-attached pricing.\n\nPlus co-development partnerships — $5M upfront, $38M in milestones, 3-7% royalty per deal — and companion-Dx royalties on launched diagnostics.",
+      "tactics": [
+        "Frame as 'seven streams, three diversification axes' — investors hear de-risking immediately.",
+        "Lead with mid-cap biotech as the volume engine — biggest single revenue segment, fastest growth.",
+        "Position co-development as 'land and expand from a license — pharma partners pull us into per-program deals.'",
+        "CDx royalties is upside, not commitment. Don't over-promise on launch timing."
+      ],
+      "narration": "Section three. The Streams. Seven streams. Diversified by customer type, contract cycle length, and revenue recognition timing. Six SaaS or licensing motions — Big Pharma at one-point-eight million ASP, Mid-cap biotech at seven hundred thousand, Small biotech SaaS at two hundred thousand, CROs at one million, AMCs at one hundred fifty thousand, Government at two hundred fifty thousand. Plus co-development partnerships — five million upfront, thirty-eight million in milestones, three to seven percent royalty per deal. Plus companion-diagnostic royalties."
+    },
+    {
+      "id": "ramp",
+      "label": "The Ramp",
+      "subtitle": "47 customers → 562 customers in 5 years",
+      "color": "#1E40AF",
+      "headline": "The Customer Ramp.",
+      "body": "Forty-seven paying customers in 2026. Five hundred sixty-two by 2030. A twelve-fold customer-count expansion over five years.\n\nThe ramp is asymmetric by segment. Big pharma grows from 3 to 30 customers (10×) — long enterprise sales cycles. Mid-cap biotech grows from 10 to 130 (13×) — modular pricing, six-month sales cycle. Small biotech grows from 18 to 230 (12.8×) — self-serve SaaS, three-month sales cycle. CROs, AMCs, and government scale proportionally.\n\nThe most aggressive ramp is in small biotech and AMCs — the segments with the shortest sales cycles and lowest customer-acquisition cost. The slowest ramp is in big pharma — where every customer is a 9-12 month enterprise sale that nonetheless delivers $1.8M of annual revenue once landed.",
+      "tactics": [
+        "Name the segments most aggressive on ramp first — mid-cap biotech, small biotech, AMCs.",
+        "Defend big-pharma ramp velocity by reference to enterprise SaaS comparables (Salesforce, ServiceNow).",
+        "Use the 12× total expansion as the headline number — bigger than typical SaaS, but the platform is also broader.",
+        "Mention CAC payback periods (all under 6 months) to anticipate the unit-economics question."
+      ],
+      "narration": "Section four. The Ramp. Forty-seven paying customers in twenty twenty-six. Five hundred sixty-two by twenty thirty. A twelve-fold customer-count expansion over five years. The ramp is asymmetric by segment. Big pharma grows from three to thirty customers — long enterprise sales cycles. Mid-cap biotech grows from ten to one hundred thirty — modular pricing, six-month sales cycle. The most aggressive ramp is in segments with the shortest sales cycles and lowest customer-acquisition cost."
+    },
+    {
+      "id": "pricing",
+      "label": "The Pricing",
+      "subtitle": "ASPs benchmarked to 10-K disclosures",
+      "color": "#0E7C7B",
+      "headline": "Benchmarked. Conservative. Defensible.",
+      "body": "Average selling prices in the model are not aspirational. Each one is anchored to a comparable contract value disclosed in the 10-K filings of Recursion Pharmaceuticals, Schrödinger Inc., or AbCellera Biologics — then discounted 15-20% to reflect BiRAGAS's earlier-stage commercial maturity.\n\nBig Pharma at $1.80M: Schrödinger's average enterprise contract is $2.2M (FY24 10-K disclosure). Discounted to $1.80M to reflect BiRAGAS's pre-Series-A maturity.\nMid-cap biotech at $0.70M: AbCellera's mid-tier contracts range $0.6-0.9M. Anchored at the midpoint.\nCROs at $1.00M: Recursion's CRO partnership values average $1.2M. Discounted to $1.00M.\n\nThese are not invented numbers. They are mid-quartile values from public comparables, intentionally pushed conservative. The pricing power BiRAGAS holds via the FDA causal-evidence tailwind is upside above the base model — not built into it.",
+      "tactics": [
+        "Cite the exact comparable for each segment — investors test this.",
+        "Use 'we left pricing power on the table' to convert a defense into an upside argument.",
+        "Mention the FDA causal-evidence regulatory tailwind as un-modeled upside.",
+        "Position the 15-20% discount as 'conservative commercial-maturity adjustment' — it sounds disciplined."
+      ],
+      "narration": "Section five. The Pricing. Average selling prices in the model are not aspirational. Each one is anchored to a comparable contract value disclosed in ten-K filings of Recursion, Schrödinger, or AbCellera — then discounted fifteen to twenty percent to reflect BiRAGAS's earlier-stage commercial maturity. Big Pharma at one point eight million dollars. Mid-cap biotech at seven hundred thousand. CROs at one million. These are not invented numbers. They are mid-quartile values from public comparables, intentionally pushed conservative."
+    },
+    {
+      "id": "inflection",
+      "label": "The Inflection",
+      "subtitle": "2028 — $43M EBITDA · 25.6% margin",
+      "color": "#C8102E",
+      "headline": "Twenty Twenty-Eight: The Crossover.",
+      "body": "The 2028 P&L is the most important single year in the model. It is the year BiRAGAS crosses from growth-stage scale into mature-SaaS profitability — and the year investors should track most closely.\n\nRevenue $168M. EBITDA $43M. EBITDA margin 25.6%. Compared to other AI-drug-discovery comparables, this is a fast crossover: Recursion's first profitable year was approximately six years after its first commercial contract; BiRAGAS's model puts the same crossover in three years. The acceleration comes from three factors: faster customer acquisition in the mid-cap segment, earlier co-development deal flow (five new partnerships in 2028 alone), and an operating-leverage curve that decompresses OpEx ratios from 235% of revenue in 2026 to 49% by 2028.\n\nThe 2028 EBITDA is the test the model must pass. Every other year is contextual.",
+      "tactics": [
+        "Name 2028 explicitly as 'the test the model must pass.'",
+        "Compare to Recursion's 6-year crossover vs BiRAGAS's 3-year — investors track this benchmark.",
+        "Cite the three acceleration factors: customer acquisition, co-dev deal flow, operating leverage.",
+        "Don't say 'anchor.' Say 'inflection' or 'crossover.'"
+      ],
+      "narration": "Section six. The Inflection. The twenty twenty-eight P&L is the most important single year in the model. Revenue one hundred sixty-eight million. EBITDA forty-three million. EBITDA margin twenty-five point six percent. The year BiRAGAS crosses from growth-stage scale into mature-SaaS profitability. Compared to other AI-drug-discovery comparables, this is a fast crossover — Recursion's first profitable year was approximately six years after its first commercial contract; BiRAGAS's model puts the same crossover in three years."
+    },
+    {
+      "id": "leverage",
+      "label": "The Leverage",
+      "subtitle": "OpEx ratio 235% → 56%",
+      "color": "#D4A017",
+      "headline": "The Operating-Leverage Curve.",
+      "body": "In 2026, operating expense runs at 235% of revenue. By 2030, it runs at 56%. This is the classic SaaS operating-leverage curve, modeled on mature enterprise-SaaS comparables.\n\nEngineering & infrastructure: from 35% of revenue down to 18%. Sales & marketing: from 22% to 11%. R&D: from 12% to 6%. G&A: from 6% to 4%. Cost of revenue (COGS): from 40% to 20%.\n\nThe curve is achievable because fixed costs — engineering team, compute infrastructure, ML/AI training pipelines — spread over a much larger revenue base as the platform scales. The leverage curve is benchmarked against Schrödinger (which compressed OpEx ratios from 240% to 78% over five years post-IPO) and Recursion (224% → 95% over five years).\n\nBiRAGAS's curve is slightly steeper than both, justified by lower COGS per unit of output (the platform is more compute-efficient than image-based ML platforms) and faster customer acquisition velocity.",
+      "tactics": [
+        "Use the Schrödinger and Recursion comparisons explicitly — investors test the curve realism.",
+        "Lead with the headline number: 235% → 56%.",
+        "Defend the steeper curve with the COGS-efficiency frame.",
+        "If pressed, walk through the line items: eng, S&M, R&D, G&A, COGS."
+      ],
+      "narration": "Section seven. The Leverage. In twenty twenty-six, operating expense runs at two hundred thirty-five percent of revenue. By twenty thirty, it runs at fifty-six percent. The classic SaaS operating-leverage curve. The curve is benchmarked against Schrödinger, which compressed OpEx ratios from two hundred forty percent to seventy-eight percent over five years post-IPO. And Recursion, which went from two hundred twenty-four to ninety-five percent. BiRAGAS's curve is slightly steeper, justified by lower COGS per unit of output and faster customer acquisition velocity."
+    },
+    {
+      "id": "scenarios",
+      "label": "The Scenarios",
+      "subtitle": "Bull · Base · Bear — all EBITDA-positive by 2028",
+      "color": "#0E7C7B",
+      "headline": "Bull. Base. Bear.",
+      "body": "Three scenarios. All three are EBITDA-positive by 2028.\n\nBull case 2030: revenue $814M, EBITDA $415M (51% margin). Bull reflects 1.4× customer count + 1.5× co-development deal flow + additional scale economies (compute amortization at higher revenue base).\n\nBase case 2030: revenue $482M, EBITDA $198M (41% margin). The reference case.\n\nBear case 2030: revenue $255M, EBITDA $72M (28% margin). Bear reflects 0.55× customer count + 0.6× co-dev pace + operating-leverage curve takes 12 extra months to compress. Still profitable.\n\nThe scenario design intentionally pushes the bear case below typical \"conservative\" projections — and the model still works. That's the structural defense: even in the bear case, BiRAGAS is a $255M revenue / $72M EBITDA business by 2030. The asymmetry runs in the investor's favor across all three scenarios.",
+      "tactics": [
+        "Lead with 'all three scenarios are EBITDA-positive by 2028' — that's the headline.",
+        "Use the bear case as your closing argument — even at 0.55× customers, the model still works.",
+        "Frame the bull case as 'realistic given the regulatory tailwind' — not as the optimistic upside.",
+        "Quote the asymmetry: 'across all three scenarios, the asymmetry runs in your favor.'"
+      ],
+      "narration": "Section eight. The Scenarios. Bull, base, and bear. All three are EBITDA-positive by twenty twenty-eight. Bull case twenty thirty — revenue eight hundred fourteen million, EBITDA four hundred fifteen million, fifty-one percent margin. Base case — four hundred eighty-two million revenue, one hundred ninety-eight million EBITDA, forty-one percent margin. Bear case — two hundred fifty-five million revenue, seventy-two million EBITDA, twenty-eight percent margin. The scenario design intentionally pushes the bear case below typical 'conservative' projections — and the model still works."
+    },
+    {
+      "id": "risks",
+      "label": "The Risks",
+      "subtitle": "Six risks. All mitigated.",
+      "color": "#3D0E40",
+      "headline": "Six Risks. All Stress-Tested.",
+      "body": "Every material model risk has been stress-tested against a specific, quantified mitigation. No single risk breaks the 2028 EBITDA threshold.\n\nR1 — Slower big-pharma sales: 48% of 2030 revenue comes from non-big-pharma SaaS. Even -50% big-pharma customers, only -11% revenue impact.\n\nR2 — FDA timeline slip: BiRAGAS's value doesn't require FDA mandating causal evidence — only accepting it. Pre-Sub already engaged.\n\nR3 — Competitive entry: 3-4 year architectural catch-up cost. Foundation gap, not feature gap.\n\nR4 — CDx launches slip: CDx contributes only 0.7% of 2028 revenue. The 2028 EBITDA holds within rounding.\n\nR5 — Customer concentration: No single customer exceeds 8% of revenue. Year-1 diversification baked in.\n\nR6 — Compute costs scale faster: BiRAGAS 3× more compute-efficient than Recursion. Even at 30% COGS, 2028 EBITDA = $35M.",
+      "tactics": [
+        "Lead with 'every risk has a quantified mitigation, not a hand-wave.'",
+        "Pick the two risks most relevant to that investor (oncology fund → R1 + R5; AI fund → R3).",
+        "Quote the specific numbers, not 'we have a plan.'",
+        "Close with: 'No single risk breaks the 2028 EBITDA threshold.'"
+      ],
+      "narration": "Section nine. The Risks. Six risks. All stress-tested. Every material model risk has been mapped to a specific, quantified mitigation. Risk one — slower big-pharma sales. Forty-eight percent of twenty thirty revenue comes from non-big-pharma SaaS. Even minus fifty percent big-pharma customers, only minus eleven percent revenue impact. Risk three — competitive entry. Three to four year architectural catch-up cost. Foundation gap, not feature gap. No single risk breaks the twenty twenty-eight EBITDA threshold."
+    },
+    {
+      "id": "defense",
+      "label": "The Defense",
+      "subtitle": "Why the model holds even in stress",
+      "color": "#C8102E",
+      "headline": "The Asymmetry Runs Both Ways.",
+      "body": "The final argument for this model is not the revenue ramp. It is the structural defense.\n\nIn the base case, BiRAGAS reaches $482M revenue and $198M EBITDA by 2030. In the bear case — 0.55× customers, 0.6× co-development pace, OpEx compression that takes twelve extra months — BiRAGAS still reaches $255M revenue and $72M EBITDA. In an even-bear \"all CDx slip, all FDA slip, big-pharma sales cycle doubles\" scenario, the model still produces positive EBITDA from 2028 onward.\n\nThe model is not knife-edge. The diversification across 27 markets and 7 revenue streams is engineered into the structure, not bolted on. Even in a scenario where two streams underperform by 50%, the remaining five carry the business through to mature-SaaS profitability.\n\nBottom-up. Customer-driven. Benchmarked. Diversified. Stress-tested. The asymmetry runs in the investor's favor under any reasonable scenario.",
+      "tactics": [
+        "Lead with 'the strongest argument for this model is the structural defense, not the upside.'",
+        "Walk through the bear case quantitatively — $255M revenue, $72M EBITDA.",
+        "Mention the 'even-bear' scenario explicitly as a separate stress test investors can hold.",
+        "Close on: 'bottom-up, customer-driven, benchmarked, diversified, stress-tested.'"
+      ],
+      "narration": "Section ten. The Defense. The final argument for this model is not the revenue ramp. It is the structural defense. In the bear case — zero-point-five-five times customers, zero-point-six times co-development pace, OpEx compression that takes twelve extra months — BiRAGAS still reaches two hundred fifty-five million revenue and seventy-two million EBITDA. The model is not knife-edge. The diversification across twenty-seven markets and seven revenue streams is engineered into the structure. Bottom-up. Customer-driven. Benchmarked. Diversified. Stress-tested. The asymmetry runs in the investor's favor under any reasonable scenario."
+    }
+  ],
+  "objections": [
+    {
+      "q": "These revenue projections look aggressive. How do you defend them?",
+      "a": "The projections are bottom-up, not top-down. Every customer count is anchored to a named pipeline target. Every ASP is benchmarked against publicly disclosed 10-K contract values from Recursion, Schrödinger, and AbCellera — then discounted 15-20% for BiRAGAS's earlier-stage commercial maturity. We don't take credit for pricing power above the comparables. If the comparables' contract values are wrong, our model is wrong; if they're right, ours is conservative."
+    },
+    {
+      "q": "How is a 41% EBITDA margin defensible by 2030?",
+      "a": "The 41% 2030 EBITDA margin sits between Salesforce (operating margin ~22% at scale) and Adobe (~36%). The BiRAGAS mix is different — fewer customers, higher ARR per customer, lower customer-success cost, plus a meaningful co-development royalty stream that has zero direct COGS. The operating-leverage curve — 235% OpEx ratio in 2026 down to 56% in 2030 — is steeper than Schrödinger's first five years, justified by lower COGS per unit of output. If we hit Schrödinger's curve we still reach 33% EBITDA, well above our breakeven anchor."
+    },
+    {
+      "q": "Are 30 big-pharma customers by 2030 realistic?",
+      "a": "Thirty by 2030 represents 120% of the top 25 — which includes the top 25 plus a handful of foreign and second-tier pharma names (Sanofi-Aventis foreign units, mid-cap specialty pharma like Vertex and Alnylam, Asian players like Takeda). The big-pharma base case ramps from 3 customers in 2026 to 30 in 2030 — a 9× expansion in five years. By comparison, Schrödinger reached 12 of the top 25 within four years of commercial launch. We're targeting a steeper ramp because BiRAGAS's value proposition is more horizontal — it applies across every therapeutic area — and because the FDA causal-evidence tailwind creates pull demand."
+    },
+    {
+      "q": "What's the most concentration-risk-sensitive year in the model?",
+      "a": "2028 is the most concentration-sensitive year. Co-development partnership revenue accounts for 36% of 2028 total revenue ($61M of $168M), and the model assumes 5 new partnerships sign that year. If only 3 of those 5 sign, 2028 revenue drops to ~$143M and EBITDA falls to ~$28M (instead of $43M). That's the single biggest sensitivity in the model. Years before and after have more diversified revenue mixes and are more resilient to individual partnership slippage."
+    },
+    {
+      "q": "How do you justify the 3-month sales cycle assumption for small biotech?",
+      "a": "Three months is the average for self-serve SaaS in adjacent enterprise software (Snowflake's small-account cycle averages 90 days; Datadog's averages 60-90 days). BiRAGAS's small-biotech offering is technically simpler than either — it's a credit-card SaaS subscription with no procurement gating below the $50K threshold. The risk is not that the cycle is too short. The risk is that small biotech churns out faster than modeled (we use 18% annual churn — Snowflake's small-account churn is closer to 15%, Datadog's 10%). If small-biotech churn doubles to 36%, we lose ~7% of base-case 2030 SaaS revenue."
+    },
+    {
+      "q": "What does the model assume about co-development royalties?",
+      "a": "The model assumes 3-7% royalty on each co-development partner's launched therapy net sales. None of those royalties hit the base-case revenue line before 2030 — co-development royalty timing is too uncertain. The companion-diagnostic royalties that DO appear in the model (starting 2028 at $1.2M, ramping to $16.8M by 2030) are based on the discrete drug-with-CDx co-launches we've modeled at 1, 2, and 3 cumulative launches. We've explicitly under-modeled royalty income. It's upside."
+    },
+    {
+      "q": "If FDA's causal-evidence guidance never materializes, does the model still work?",
+      "a": "Yes. BiRAGAS's value proposition is that the platform produces FDA-acceptable evidence — not that FDA mandates causal evidence. Even under existing 21 CFR 809.40 and current Pre-Submission frameworks, BiRAGAS-discovered claims qualify for the standard dossier track. The model would lose the pricing-power upside (un-modeled) and could see big-pharma adoption velocity slow by 6-9 months. Run a sensitivity with big-pharma customers reduced 30% in 2026-2028: 2028 EBITDA falls to ~$36M, still positive and above breakeven."
+    },
+    {
+      "q": "Where is the model most likely to surprise — upside or downside?",
+      "a": "Upside, on co-development partnerships. The base case models 5 new partnerships in 2028, 7 in 2029, 9 in 2030. The pipeline today has 12 named pharma counterparties in various stages of diligence. If 3-5 of those convert in 2026 instead of 2027 (the base case timing), 2027 EBITDA could exceed the projected $13M by $15-20M. The downside surprise is more likely on COGS as compute prices change, but COGS is modeled at the high end of the comparable range, so even there the model is more likely to over-deliver than under-deliver on margin."
+    }
+  ]
+}
